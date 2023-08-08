@@ -1,0 +1,146 @@
+{
+  "primaryNavigation": [
+    {
+      "name": "Live",
+      "link": "/"
+    },
+    {
+      "name": "On-Demand",
+      "link": "/on-demand"
+    },
+    {
+      "name": "Sports",
+      "link": "/sports"
+    },
+    {
+      "name": "Game Day",
+      "link": "/pages/football-schedule"
+    },
+    {
+      "name": "Newsroom",
+      "link": "/pages/blog"
+    },
+    {
+      "name": "EDUtainment",
+      "link": "/edutainment"
+    },
+    {
+      "name": "How to Watch",
+      "link": "/how-to-watch"
+    },
+    {
+      "name": "Who Runs the Yard",
+      "link": "/pages/who-runs-the-yard"
+    }
+  ],
+  "secondaryNavigation": [
+    {
+      "name": "Settings",
+      "link": "/settings/about-us"
+    },
+    {
+      "name": "Subscribe",
+      "link": "http://eepurl.com/hWMJK9"
+    }
+  ],
+  "footerNavigation": [
+    {
+      "name": "Live",
+      "link": "/"
+    },
+    {
+      "name": "On-Demand",
+      "link": "/on-demand"
+    },
+    {
+      "name": "Sports",
+      "link": "/sports"
+    },
+    {
+      "name": "Game Day",
+      "link": "/pages/football-schedule"
+    },
+    {
+      "name": "Newsroom",
+      "link": "/pages/blog"
+    },
+    {
+      "name": "EDUtainment",
+      "link": "/edutainment"
+    },
+    {
+      "name": "Search",
+      "link": "/search"
+    },
+    {
+      "name": "Settings",
+      "link": "/settings/about-us"
+    },
+    {
+      "name": "How to Watch",
+      "link": "/how-to-watch"
+    },
+    {
+      "name": "Who Runs the Yard",
+      "link": "/pages/who-runs-the-yard"
+    },
+    {
+      "name": "About HBCUgo",
+      "link": "/settings/about-us"
+    },
+    {
+      "name": "Press Release",
+      "link": "/pressRelease"
+    },
+    {
+      "name": "Attribution Guidelines",
+      "link": "/attributionGuidelines"
+    },
+    {
+      "name": "Terms of Use",
+      "link": "/settings/terms-of-use"
+    },
+    {
+      "name": "Privacy Policy",
+      "link": "/settings/privacy-policy"
+    },
+    {
+      "name": "Do Not Sell My Information",
+      "link": "/settings/do-not-sell-my-info"
+    },
+    {
+      "name": "CCPA",
+      "link": "/settings/ccpa"
+    },
+    {
+      "name": "Contact Us",
+      "link": "/settings/contact-us"
+    }
+  ],
+  "settingsNavigation": [
+    {
+      "name": "About HBCUgo",
+      "link": "/settings/about-us"
+    },
+    {
+      "name": "Terms of Use",
+      "link": "/settings/terms-of-use"
+    },
+    {
+      "name": "Privacy Policy",
+      "link": "/settings/privacy-policy"
+    },
+    {
+      "name": "Do Not Sell My Info",
+      "link": "/settings/do-not-sell-my-info"
+    },
+    {
+      "name": "CCPA",
+      "link": "/settings/ccpa"
+    },
+    {
+      "name": "Contact Us",
+      "link": "/settings/contact-us"
+    }
+  ]
+}

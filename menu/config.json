@@ -11,7 +11,11 @@
     {
       "name": "Sports",
       "link": "/sports"
-    },
+    }, 
+     {
+      "name": "Football Schedule",
+      "link": "hbcugo.tv/pages/football-schedule"
+    }
     {
       "name": "Game Day",
       "link": "/pages/football-schedule"

@@ -5,6 +5,10 @@
       "link": "/"
     },
     {
+      "name": "Game Day",
+      "link": "/pages/gameday"
+    },
+    {
       "name": "On-Demand",
       "link": "/on-demand"
     },

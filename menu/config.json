@@ -20,6 +20,10 @@
       "name": "Football Schedule",
       "link": "/pages/football-schedule"
     },
+     {
+      "name": "Kickoff Show",
+      "link": "/pages/kickoff-show"
+    },
     {
       "name": "Newsroom",
       "link": "/pages/blog"
@@ -31,7 +35,7 @@
     {
       "name": "How to Watch",
       "link": "/how-to-watch"
-    },
+    }
   ],
   "secondaryNavigation": [
     {

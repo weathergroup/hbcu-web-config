@@ -5,7 +5,7 @@
       "link": "/"
     },
     {
-      "name": "Game Day",
+      "name": "Saturday's Game",
       "link": "/pages/gameday"
     },
     {
@@ -35,10 +35,6 @@
     {
       "name": "How to Watch",
       "link": "/how-to-watch"
-    },
-    {
-      "name": "Who Runs The Yard?",
-      "link": "/pages/who-runs-the-yard"
     }
   ],
   "secondaryNavigation": [

@@ -5,16 +5,24 @@
       "link": "/"
     },
     {
+      "name": "Saturday's Game",
+      "link": "/pages/gameday"
+    },
+    {
       "name": "On-Demand",
       "link": "/on-demand"
     },
     {
       "name": "Sports",
       "link": "/sports"
-    },
-    {
-      "name": "Game Day",
+    }, 
+     {
+      "name": "Football Schedule",
       "link": "/pages/football-schedule"
+    },
+     {
+      "name": "Kickoff Show",
+      "link": "/pages/kickoff-show"
     },
     {
       "name": "Newsroom",
@@ -27,10 +35,6 @@
     {
       "name": "How to Watch",
       "link": "/how-to-watch"
-    },
-    {
-      "name": "Who Runs The Yard?",
-      "link": "/pages/who-runs-the-yard"
     }
   ],
   "secondaryNavigation": [

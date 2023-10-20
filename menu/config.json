@@ -12,11 +12,8 @@
       "name": "On-Demand",
       "link": "/on-demand"
     },
+
     {
-      "name": "Sports",
-      "link": "/sports"
-    }, 
-     {
       "name": "Football Schedule",
       "link": "/pages/football-schedule"
     },
@@ -24,10 +21,7 @@
       "name": "Newsroom",
       "link": "/pages/blog"
     },
-    {
-      "name": "EDUtainment",
-      "link": "/edutainment"
-    },
+
     {
       "name": "How to Watch",
       "link": "/how-to-watch"

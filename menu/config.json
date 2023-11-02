@@ -93,19 +93,23 @@
     },
     {
       "name": "Terms of Use",
-      "link": "/settings/terms-of-use"
+      "link": "https://weathergroup.com/terms-of-use",
+      "newTab": true
     },
     {
       "name": "Privacy Policy",
-      "link": "/settings/privacy-policy"
+      "link": "https://weathergroup.com/privacy-policy",
+      "newTab": true
     },
     {
-      "name": "Do Not Sell My Information",
-      "link": "/settings/do-not-sell-my-info"
+      "name": "Do Not Sell or Share My Information",
+      "link": "https://weathergroup.com/privacy-policy#12-h-exercising-your-rights",
+      "newTab": true
     },
     {
-      "name": "CCPA",
-      "link": "/settings/ccpa"
+      "name": "Notice at Collection",
+      "link": "https://weathergroup.com/privacy-policy#12-notice-at-collection",
+      "newTab": true
     },
     {
       "name": "Contact Us",
@@ -119,19 +123,23 @@
     },
     {
       "name": "Terms of Use",
-      "link": "/settings/terms-of-use"
+      "link": "https://weathergroup.com/terms-of-use",
+      "newTab": true
     },
     {
       "name": "Privacy Policy",
-      "link": "/settings/privacy-policy"
+      "link": "https://weathergroup.com/privacy-policy",
+      "newTab": true
     },
     {
-      "name": "Do Not Sell My Info",
-      "link": "/settings/do-not-sell-my-info"
+      "name": "Do Not Sell or Share My Information",
+      "link": "https://weathergroup.com/privacy-policy#12-h-exercising-your-rights",
+      "newTab": true
     },
     {
-      "name": "CCPA",
-      "link": "/settings/ccpa"
+      "name": "Notice at Collection",
+      "link": "https://weathergroup.com/privacy-policy#12-notice-at-collection",
+      "newTab": true
     },
     {
       "name": "Contact Us",

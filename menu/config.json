@@ -7,7 +7,6 @@
     {
       "name": "Saturday's Game",
       "link": "/pages/gameday"
-
     },
     {
       "name": "On-Demand",
@@ -113,7 +112,7 @@
     },
     {
       "name": "Contact Us",
-      "link": "/settings/contact-us"
+      "link": "https://www.weathergroup.com/privacy-policy#13-Contact-Us"
     }
   ],
   "settingsNavigation": [
@@ -143,7 +142,7 @@
     },
     {
       "name": "Contact Us",
-      "link": "/settings/contact-us"
+      "link": "https://www.weathergroup.com/privacy-policy#13-Contact-Us"
     }
   ]
 }

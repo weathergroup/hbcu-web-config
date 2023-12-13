@@ -7,6 +7,7 @@
     {
       "name": "Saturday's Game",
       "link": "/pages/gameday"
+
     },
     {
       "name": "On-Demand",
@@ -14,8 +15,8 @@
     },
 
     {
-      "name": "Football Schedule",
-      "link": "/pages/football-schedule"
+      "name": "Basketball Schedule",
+      "link": "/pages/basketball-schedule"
     },
     {
       "name": "Newsroom",

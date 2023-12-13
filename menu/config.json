@@ -112,7 +112,7 @@
     },
     {
       "name": "Contact Us",
-      "link": "https://www.weathergroup.com/privacy-policy#13-Contact-Us"
+      "link": "/settings/contact-us"
     }
   ],
   "settingsNavigation": [
@@ -142,7 +142,7 @@
     },
     {
       "name": "Contact Us",
-      "link": "https://www.weathergroup.com/privacy-policy#13-Contact-Us"
+      "link": "/settings/contact-us"
     }
   ]
 }

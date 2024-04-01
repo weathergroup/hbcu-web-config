@@ -7,16 +7,14 @@
     {
       "name": "Saturday's Game",
       "link": "/pages/gameday"
-
     },
     {
       "name": "On-Demand",
       "link": "/on-demand"
     },
-
     {
-      "name": "Basketball Schedule",
-      "link": "/pages/basketball-schedule"
+      "name": "Accelerating Brilliance",
+      "link": "/pages/accelerating-brilliance"
     },
     {
       "name": "Newsroom",
@@ -52,8 +50,8 @@
       "link": "/sports"
     },
     {
-      "name": "Game Day",
-      "link": "/pages/football-schedule"
+      "name": "Accelerating Brilliance",
+      "link": "/pages/accelerating-brilliance"
     },
     {
       "name": "Newsroom",

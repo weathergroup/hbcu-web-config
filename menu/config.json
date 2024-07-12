@@ -28,10 +28,6 @@
   ],
   "secondaryNavigation": [
     {
-      "name": "Settings",
-      "link": "/settings/about-us"
-    },
-    {
       "name": "Subscribe",
       "link": "http://eepurl.com/hWMJK9"
     }
@@ -64,10 +60,6 @@
     {
       "name": "Search",
       "link": "/search"
-    },
-    {
-      "name": "Settings",
-      "link": "/settings/about-us"
     },
     {
       "name": "How to Watch",

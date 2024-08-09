@@ -5,18 +5,20 @@
       "link": "/"
     },
     {
-      "name": "Saturday's Game",
-      "link": "/pages/gameday"
-
-    },
-    {
       "name": "On-Demand",
       "link": "/on-demand"
     },
-
     {
-      "name": "Basketball Schedule",
-      "link": "/pages/basketball-schedule"
+      "name": "Sports",
+      "link": "/sports"
+    },
+    {
+      "name": "2024 Football Schedule",
+      "link": "/pages/2024-football-schedule"
+    },
+    {
+      "name": "Accelerating Brilliance",
+      "link": "/pages/accelerating-brilliance"
     },
     {
       "name": "Newsroom",
@@ -29,10 +31,6 @@
     }
   ],
   "secondaryNavigation": [
-    {
-      "name": "Settings",
-      "link": "/settings/about-us"
-    },
     {
       "name": "Subscribe",
       "link": "http://eepurl.com/hWMJK9"
@@ -52,8 +50,8 @@
       "link": "/sports"
     },
     {
-      "name": "Game Day",
-      "link": "/pages/football-schedule"
+      "name": "Accelerating Brilliance",
+      "link": "/pages/accelerating-brilliance"
     },
     {
       "name": "Newsroom",
@@ -66,10 +64,6 @@
     {
       "name": "Search",
       "link": "/search"
-    },
-    {
-      "name": "Settings",
-      "link": "/settings/about-us"
     },
     {
       "name": "How to Watch",

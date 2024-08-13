@@ -1,7 +1,7 @@
 {
     "promotions": {
         "railTitle": "title",
-        "showTitle": false,
+        "showTitle": true,
         "railContent": [
             {
                 "title": "HBCU Exchange Weekend",

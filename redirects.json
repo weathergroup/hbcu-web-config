@@ -1,0 +1,42 @@
+[
+    {
+        "sources": [
+            "/privacy-policy",
+            "/about/privacy-policy"
+        ],
+        "destination": "https://weathergroup.com/privacy-policy",
+        "permanent": true
+    },
+    {
+        "sources": [
+            "/terms-of-use",
+            "/about/terms-of-use"
+        ],
+        "destination": "https://weathergroup.com/terms-of-use",
+        "permanent": true
+    },
+    {
+        "sources": [
+            "/ccpa",
+            "/notice-at-collection",
+            "/about/ccpa",
+            "/about/notice-at-collection"
+        ],
+        "destination": "https://weathergroup.com/privacy-policy#12-notice-at-collection",
+        "permanent": true
+    },
+    {
+        "sources": [
+            "/do-not-sell-my-information",
+            "/do-not-sell-or-share-my-information",
+            "/do-not-sell-my-info",
+            "/do-not-sell-or-share-my-info",
+            "/about/do-not-sell-my-information",
+            "/about/do-not-sell-or-share-my-information",
+            "/about/do-not-sell-my-info",
+            "/about/do-not-sell-or-share-my-info"
+        ],
+        "destination": "https://weathergroup.com/privacy-policy#12-h-exercising-your-rights",
+        "permanent": true
+    }
+]

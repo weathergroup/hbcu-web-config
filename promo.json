@@ -1,0 +1,44 @@
+{
+    "promotions": {
+        "railTitle": "title",
+        "showTitle": false,
+        "railContent": [
+            {
+                "title": "Item 1",
+                "destinationUrl": "https://www.google.com/",
+                "imageUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "displayOrder": 1
+            },
+            {
+                "title": "Item 2",
+                "destinationUrl": "https://www.google.com/",
+                "imageUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "displayOrder": 2
+            },
+            {
+                "title": "Item 3",
+                "destinationUrl": "https://www.google.com/",
+                "imageUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "displayOrder": 3
+            },
+            {
+                "title": "Item 3",
+                "destinationUrl": "https://www.google.com/",
+                "imageUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "displayOrder": 4
+            },
+            {
+                "title": "Item 3",
+                "destinationUrl": "https://www.google.com/",
+                "imageUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "displayOrder": 5
+            },
+            {
+                "title": "Item 3",
+                "destinationUrl": "https://www.google.com/",
+                "imageUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "displayOrder": 6
+            }
+        ]
+    }
+}

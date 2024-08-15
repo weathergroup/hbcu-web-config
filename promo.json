@@ -4,39 +4,39 @@
         "showTitle": false,
         "railContent": [
             {
-                "title": "Item 1",
-                "destinationUrl": "https://www.google.com/",
-                "imageUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "title": "HBCU Exchange Weekend",
+                "destinationUrl": "https://www.hbcuexchangesb.com/",
+                "imageUrl": "https://static.wixstatic.com/media/f8942f_7c62b7cd94c943c58239d703f50f8d27~mv2.jpg",
                 "displayOrder": 1
             },
             {
-                "title": "Item 2",
-                "destinationUrl": "https://www.google.com/",
-                "imageUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "title": "Bayou Classic",
+                "destinationUrl": "https://mybayouclassic.com/",
+                "imageUrl": "https://static.wixstatic.com/media/f8942f_09c0a39800944989882dbc1004efc01b~mv2.jpg",
                 "displayOrder": 2
             },
             {
-                "title": "Item 3",
-                "destinationUrl": "https://www.google.com/",
-                "imageUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "title": "HBCU NY Classic",
+                "destinationUrl": "https://hbcunyclassic.com/",
+                "imageUrl": "https://static.wixstatic.com/media/f8942f_f05b4ceadb6746239e3f64d939609f1e~mv2.jpg",
                 "displayOrder": 3
             },
             {
-                "title": "Item 3",
-                "destinationUrl": "https://www.google.com/",
-                "imageUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "title": "FAMU Main Page",
+                "destinationUrl": "https://famuathletics.com/sports/football",
+                "imageUrl": "https://static.wixstatic.com/media/f8942f_35b3c53658424ef5ad16d07b49917496~mv2.jpg",
                 "displayOrder": 4
             },
             {
-                "title": "Item 3",
-                "destinationUrl": "https://www.google.com/",
-                "imageUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "title": "HBCU Legacy Bowl",
+                "destinationUrl": "https://www.hbculegacybowl.com/",
+                "imageUrl": "https://static.wixstatic.com/media/f8942f_b5af477af7b34ae58345471adae28548~mv2.jpg",
                 "displayOrder": 5
             },
             {
-                "title": "Item 3",
-                "destinationUrl": "https://www.google.com/",
-                "imageUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "title": "HBCU Legends on Sports Illustrated",
+                "destinationUrl": "https://www.si.com/college/hbcu",
+                "imageUrl": "https://static.wixstatic.com/media/f8942f_1149d97e848a499785bd707311906749~mv2.jpg",
                 "displayOrder": 6
             }
         ]

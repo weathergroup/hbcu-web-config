@@ -9,8 +9,16 @@
       "link": "/on-demand"
     },
     {
+      "name": "Sports",
+      "link": "/sports"
+    },
+    {
       "name": "2024 Football Schedule",
       "link": "https://sports.hbcugo.tv/2024-football-schedule"
+    },
+    {
+      "name": "Find Your HBCU",
+      "link": "/find-your-hbcu"
     },
     {
       "name": "Accelerating Brilliance",
@@ -20,17 +28,12 @@
       "name": "Newsroom",
       "link": "/pages/blog"
     },
-
     {
       "name": "How to Watch",
       "link": "https://sports.hbcugo.tv/"
     }
   ],
   "secondaryNavigation": [
-    {
-      "name": "Settings",
-      "link": "/settings/about-us"
-    },
     {
       "name": "Subscribe",
       "link": "http://eepurl.com/hWMJK9"
@@ -64,10 +67,6 @@
     {
       "name": "Search",
       "link": "/search"
-    },
-    {
-      "name": "Settings",
-      "link": "/settings/about-us"
     },
     {
       "name": "How to Watch",

@@ -1,146 +1,146 @@
 {
-    "primaryNavigation": [
-        {
-            "name": "Live",
-            "link": "/"
-        },
-        {
-            "name": "On-Demand",
-            "link": "/on-demand"
-        },
-        {
-            "name": "Sports",
-            "link": "/sports"
-        },
-        {
-            "name": "2024 Football Schedule",
-            "link": "/pages/2024-football-schedule"
-        },
-        {
-            "name": "Find Your HBCU",
-            "link": "/find-your-hbcu"
-        },
-        {
-            "name": "Accelerating Brilliance",
-            "link": "/pages/accelerating-brilliance"
-        },
-        {
-            "name": "Newsroom",
-            "link": "/pages/blog"
-        },
-        {
-            "name": "How to Watch",
-            "link": "/how-to-watch"
-        }
-    ],
-    "secondaryNavigation": [
-        {
-            "name": "Subscribe",
-            "link": "http://eepurl.com/hWMJK9"
-        }
-    ],
-    "footerNavigation": [
-        {
-            "name": "Live",
-            "link": "/"
-        },
-        {
-            "name": "On-Demand",
-            "link": "/on-demand"
-        },
-        {
-            "name": "Sports",
-            "link": "/sports"
-        },
-        {
-            "name": "Accelerating Brilliance",
-            "link": "/pages/accelerating-brilliance"
-        },
-        {
-            "name": "Newsroom",
-            "link": "/pages/blog"
-        },
-        {
-            "name": "EDUtainment",
-            "link": "/edutainment"
-        },
-        {
-            "name": "Search",
-            "link": "/search"
-        },
-        {
-            "name": "How to Watch",
-            "link": "/how-to-watch"
-        },
-        {
-            "name": "Who Runs the Yard",
-            "link": "/pages/who-runs-the-yard"
-        },
-        {
-            "name": "About HBCUgo",
-            "link": "/settings/about-us"
-        },
-        {
-            "name": "Press Release",
-            "link": "/pressRelease"
-        },
-        {
-            "name": "Attribution Guidelines",
-            "link": "/attributionGuidelines"
-        },
-        {
-            "name": "Terms of Use",
-            "link": "https://weathergroup.com/terms-of-use",
-            "newTab": true
-        },
-        {
-            "name": "Privacy Policy",
-            "link": "https://weathergroup.com/privacy-policy",
-            "newTab": true
-        },
-        {
-            "name": "Do Not Sell or Share My Information",
-            "link": "https://weathergroup.com/privacy-policy#12-h-exercising-your-rights",
-            "newTab": true
-        },
-        {
-            "name": "Notice at Collection",
-            "link": "https://weathergroup.com/privacy-policy#12-notice-at-collection",
-            "newTab": true
-        },
-        {
-            "name": "Contact Us",
-            "link": "/settings/contact-us"
-        }
-    ],
-    "settingsNavigation": [
-        {
-            "name": "About HBCUgo",
-            "link": "/settings/about-us"
-        },
-        {
-            "name": "Terms of Use",
-            "link": "https://weathergroup.com/terms-of-use",
-            "newTab": true
-        },
-        {
-            "name": "Privacy Policy",
-            "link": "https://weathergroup.com/privacy-policy",
-            "newTab": true
-        },
-        {
-            "name": "Do Not Sell or Share My Information",
-            "link": "https://weathergroup.com/privacy-policy#12-h-exercising-your-rights",
-            "newTab": true
-        },
-        {
-            "name": "Notice at Collection",
-            "link": "https://weathergroup.com/privacy-policy#12-notice-at-collection",
-            "newTab": true
-        },
-        {
-            "name": "Contact Us",
-            "link": "/settings/contact-us"
-        }
-    ]
+  "primaryNavigation": [
+    {
+      "name": "Live",
+      "link": "/"
+    },
+    {
+      "name": "On-Demand",
+      "link": "/on-demand"
+    },
+    {
+      "name": "Sports",
+      "link": "/sports"
+    },
+    {
+      "name": "2024 Football Schedule",
+      "link": "https://sports.hbcugo.tv/2024-football-schedule"
+    },
+    {
+      "name": "Find Your HBCU",
+      "link": "/find-your-hbcu"
+    },
+    {
+      "name": "Accelerating Brilliance",
+      "link": "/pages/accelerating-brilliance"
+    },
+    {
+      "name": "Newsroom",
+      "link": "/pages/blog"
+    },
+    {
+      "name": "How to Watch",
+      "link": "https://sports.hbcugo.tv/"
+    }
+  ],
+  "secondaryNavigation": [
+    {
+      "name": "Subscribe",
+      "link": "http://eepurl.com/hWMJK9"
+    }
+  ],
+  "footerNavigation": [
+    {
+      "name": "Live",
+      "link": "/"
+    },
+    {
+      "name": "On-Demand",
+      "link": "/on-demand"
+    },
+    {
+      "name": "Sports",
+      "link": "/sports"
+    },
+    {
+      "name": "Accelerating Brilliance",
+      "link": "/pages/accelerating-brilliance"
+    },
+    {
+      "name": "Newsroom",
+      "link": "/pages/blog"
+    },
+    {
+      "name": "EDUtainment",
+      "link": "/edutainment"
+    },
+    {
+      "name": "Search",
+      "link": "/search"
+    },
+    {
+      "name": "How to Watch",
+      "link": "https://sports.hbcugo.tv/"
+    },
+    {
+      "name": "Who Runs the Yard",
+      "link": "/pages/who-runs-the-yard"
+    },
+    {
+      "name": "About HBCUgo",
+      "link": "/settings/about-us"
+    },
+    {
+      "name": "Press Release",
+      "link": "/pressRelease"
+    },
+    {
+      "name": "Attribution Guidelines",
+      "link": "/attributionGuidelines"
+    },
+    {
+      "name": "Terms of Use",
+      "link": "https://weathergroup.com/terms-of-use",
+      "newTab": true
+    },
+    {
+      "name": "Privacy Policy",
+      "link": "https://weathergroup.com/privacy-policy",
+      "newTab": true
+    },
+    {
+      "name": "Do Not Sell or Share My Information",
+      "link": "https://weathergroup.com/privacy-policy#12-h-exercising-your-rights",
+      "newTab": true
+    },
+    {
+      "name": "Notice at Collection",
+      "link": "https://weathergroup.com/privacy-policy#12-notice-at-collection",
+      "newTab": true
+    },
+    {
+      "name": "Contact Us",
+      "link": "/settings/contact-us"
+    }
+  ],
+  "settingsNavigation": [
+    {
+      "name": "About HBCUgo",
+      "link": "/settings/about-us"
+    },
+    {
+      "name": "Terms of Use",
+      "link": "https://weathergroup.com/terms-of-use",
+      "newTab": true
+    },
+    {
+      "name": "Privacy Policy",
+      "link": "https://weathergroup.com/privacy-policy",
+      "newTab": true
+    },
+    {
+      "name": "Do Not Sell or Share My Information",
+      "link": "https://weathergroup.com/privacy-policy#12-h-exercising-your-rights",
+      "newTab": true
+    },
+    {
+      "name": "Notice at Collection",
+      "link": "https://weathergroup.com/privacy-policy#12-notice-at-collection",
+      "newTab": true
+    },
+    {
+      "name": "Contact Us",
+      "link": "/settings/contact-us"
+    }
+  ]
 }

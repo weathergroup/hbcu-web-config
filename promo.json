@@ -1,5 +1,6 @@
 {
     "promotions": {
+        "showPromoRail": true,
         "railTitle": "title",
         "showTitle": false,
         "railContent": [

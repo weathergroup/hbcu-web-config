@@ -1,19 +1,19 @@
 {
     "promotions": {
         "showPromoRail": true,
-        "railTitle": "HBCU GO 2024 Football Season",
+        "railTitle": "title",
         "showTitle": true,
         "railContent": [
             {
-                "displayTitle": "Football Schedule",
-                "destinationUrl": "https://sports.hbcugo.tv/2024-football-schedule",
-                "image": "https://static.wixstatic.com/media/d9f2e8_d8d630742d6b433ea2efeff4c4aad808~mv2.jpg",
+                "displayTitle": "2024 HBCU Go Football Schedule",
+                "destinationUrl": "https://weathergroup.wixstudio.io/hbcugo/2024-football-schedule",
+                "image": "https://drive.google.com/file/d/1kXSncJCdFjW-_mYUfOaifsGUVoG8mstR/view?usp=sharing",
                 "displayOrder": 1
             },
             {
-                "displayTitle": "Item 2",
-                "destinationUrl": "https://www.google.com/",
-                "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "displayTitle": "How to Watch HBCU Go",
+                "destinationUrl": "https://weathergroup.wixstudio.io/hbcugo",
+                "image": "https://drive.google.com/file/d/1tGQpx34Fmq7SFpg2XtPkVVoGwKPAoAr2/view?usp=sharing",
                 "displayOrder": 2
             }
         ]

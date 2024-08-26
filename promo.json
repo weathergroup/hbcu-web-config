@@ -1,7 +1,7 @@
 {
     "promotions": {
         "showPromoRail": true,
-        "railTitle": "title",
+        "railTitle": "HBCU Go 2024 Football",
         "showTitle": true,
         "railContent": [
             {
@@ -15,6 +15,18 @@
                 "destinationUrl": "https://weathergroup.wixstudio.io/hbcugo",
                 "image": "https://static.wixstatic.com/media/f8942f_d4ca898f2c2d4ab8a7ff5bf3bd8a0355~mv2.jpg",
                 "displayOrder": 2
+            },
+            {
+                "displayTitle": "The Grio : HBCU Coverage",
+                "destinationUrl": "https://thegrio.com/category/lifestyle/hbcu/",
+                "image": "https://static.wixstatic.com/media/cb1100_126550a9a8fc4a6097b9028087fb313d~mv2.jpg",
+                "displayOrder": 3
+            },
+            {
+                "displayTitle": "Southern Heritage Classic 9/14",
+                "destinationUrl": "https://southernheritageclassic.com/",
+                "image": "https://static.wixstatic.com/media/cb1100_e977bbe709a147faaeebcb2e6933a73c~mv2.jpg",
+                "displayOrder": 4
             }
         ]
     }

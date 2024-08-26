@@ -1,43 +1,20 @@
 {
     "promotions": {
-        "railTitle": "title",
-        "showTitle": false,
+        "showPromoRail": true,
+        "railTitle": "HBCU Go 2024 Football",
+        "showTitle": true,
         "railContent": [
             {
-                "title": "HBCU Exchange Weekend",
-                "destinationUrl": "https://www.hbcuexchangesb.com/",
-                "image": "https://static.wixstatic.com/media/f8942f_7c62b7cd94c943c58239d703f50f8d27~mv2.jpg",
+                "displayTitle": "2024 HBCU Go Football Schedule",
+                "destinationUrl": "https://weathergroup.wixstudio.io/hbcugo/2024-football-schedule",
+                "image": "https://static.wixstatic.com/media/f8942f_2c5277fbdb99409eae397f6a0a7e3372~mv2.jpg",
                 "displayOrder": 1
             },
             {
-                "title": "Bayou Classic",
-                "destinationUrl": "https://mybayouclassic.com/",
-                "image": "https://static.wixstatic.com/media/f8942f_09c0a39800944989882dbc1004efc01b~mv2.jpg",
+                "displayTitle": "How to Watch HBCU Go",
+                "destinationUrl": "https://weathergroup.wixstudio.io/hbcugo",
+                "image": "https://static.wixstatic.com/media/f8942f_d4ca898f2c2d4ab8a7ff5bf3bd8a0355~mv2.jpg",
                 "displayOrder": 2
-            },
-            {
-                "title": "HBCU NY Classic",
-                "destinationUrl": "https://hbcunyclassic.com/",
-                "image": "https://static.wixstatic.com/media/f8942f_f05b4ceadb6746239e3f64d939609f1e~mv2.jpg",
-                "displayOrder": 3
-            },
-            {
-                "title": "FAMU Main Page",
-                "destinationUrl": "https://famuathletics.com/sports/football",
-                "image": "https://static.wixstatic.com/media/f8942f_35b3c53658424ef5ad16d07b49917496~mv2.jpg",
-                "displayOrder": 4
-            },
-            {
-                "title": "HBCU Legacy Bowl",
-                "destinationUrl": "https://www.hbculegacybowl.com/",
-                "image": "https://static.wixstatic.com/media/f8942f_b5af477af7b34ae58345471adae28548~mv2.jpg",
-                "displayOrder": 5
-            },
-            {
-                "title": "HBCU Legends on Sports Illustrated",
-                "destinationUrl": "https://www.si.com/college/hbcu",
-                "image": "https://static.wixstatic.com/media/f8942f_1149d97e848a499785bd707311906749~mv2.jpg",
-                "displayOrder": 6
             }
         ]
     }

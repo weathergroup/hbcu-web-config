@@ -1,19 +1,19 @@
 {
     "promotions": {
         "showPromoRail": true,
-        "railTitle": "HBCU 2024-25 Basketball",
+        "railTitle": "HBCU GO 2025 Football",
         "showTitle": true,
         "railContent": [
             {
-                "displayTitle": "2025 HBCU Go Basketball Schedule",
-                "destinationUrl": "https://weathergroup.wixstudio.com/hbcugo/basketball-schedule",
-                "image": "https://static.wixstatic.com/media/f8942f_598d5186d28a4bf29c88c26e66ead569~mv2.jpg",
+                "displayTitle": "2025 HBCU Go Football Schedule",
+                "destinationUrl": "http://sports.hbcugo.tv/2025-football-schedule",
+                "image": "https://static.wixstatic.com/media/f8942f_e03ba5f9403f4616935535bf63343456~mv2.png",
                 "displayOrder": 1
             },
             {
                 "displayTitle": "How to Watch HBCU Go",
                 "destinationUrl": "https://weathergroup.wixstudio.io/hbcugo",
-                "image": "https://static.wixstatic.com/media/f8942f_d4ca898f2c2d4ab8a7ff5bf3bd8a0355~mv2.jpg",
+                "image": "https://static.wixstatic.com/media/f8942f_405dd92321224cfb956af5b86df56b3d~mv2.png",
                 "displayOrder": 2
             },
             {
